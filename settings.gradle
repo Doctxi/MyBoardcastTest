@@ -1,0 +1,2 @@
+rootProject.name='MyBoardcastTest'
+include ':app'
